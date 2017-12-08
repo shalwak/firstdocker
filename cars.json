@@ -1,0 +1,14 @@
+{"CarModels":[
+	{ "CarName":"Chrysler Pacifica", "Make":"Chrysler", "Price":"$28,595", "Type":"Minivan", "Year":"2017" },
+	{ "CarName":"Audi A4", "Make":"Audi", "Price":"$34,900", "Type":"Sedan", "Year":"2016" },
+	{ "CarName":"Jaguar F-Pace", "Make":"Jaguar", "Price":"$40,990", "Type":"Crossover SUV", "Year":"2017" },
+	{ "CarName":"Chevrolet Bolt", "Make":"Chevrolet", "Price":"$36,620", "Type":"Electric", "Year":"2017" },
+	{ "CarName":"Buick Lacrosse", "Make":"Buick", "Price":"$32,065", "Type":"Sedan", "Year":"2016" },
+	{ "CarName":"Fiat 124 Spider", "Make":"Fiat", "Price":" $24,995", "Type":"Convertible", "Year":"2015" },
+	{ "CarName":"Audi Q7", "Make":"Audi", "Price":" $49,000", "Type":"SUV", "Year":"2017" },
+	{ "CarName":"Ford F-150", "Make":"Ford", "Price":"$26,540", "Type":"Pickup", "Year":"2016" },
+	{ "CarName":"Honda Accord", "Make":"Honda", "Price":"$22,345", "Type":"Sedan", "Year":"2017" },
+	{ "CarName":"Hyundai Elantra", "Make":"Hyundai", "Price":"$17,150", "Type":"Sedan", "Year":"2014" }
+	
+	
+]}
